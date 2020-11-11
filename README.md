@@ -1,2 +1,2 @@
-# gnjs-micro-framework
+# micro-framework
 Package micro-famework-php
