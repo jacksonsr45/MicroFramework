@@ -1,2 +1,2 @@
 # micro-framework
-Package micro-famework-php
+Package micro-framework-php
